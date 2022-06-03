@@ -11,7 +11,7 @@ pour en découvrir plus sur moi!
 <br>
 
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hey+%2C+bienvenue+sur+ma+page+GitHub;Je+suis+Eliot+Masset;Je+suis+Etudiant+en+ecole+d+Ingénieur;Dev+Web;Dev+Full+Stack;Open+Source+Lover+%3C3"></a>
+  <a href="https://github.com/eliotmasset/eliotmasset"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hey+%2C+bienvenue+sur+ma+page+GitHub;Je+suis+Eliot+Masset;Je+suis+Etudiant+en+ecole+d+Ingénieur;Dev+Web;Dev+Full+Stack;Open+Source+Lover+%3C3"></a>
 </p>
 
 <br>
@@ -35,18 +35,82 @@ class EliotMasset() {
 ### 🛠 &nbsp;Technos
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<p align="center">
+  <b>Languages</b>
+  <br>
+  <br>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <code><img src="./images/c.svg" alt="C" height="40"/></code>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <code><img src="./images/cplusplus.svg" alt="C++" height="40"/></code>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+    <code><img src="./images/javascript.svg" alt="JavaScript" height="40"/></code>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/PHP" target="_blank">
+    <code><img src="./images/php.svg" alt="PHP" height="40"/></code>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <code><img src="./images/java.svg" alt="Java" height="40"/></code>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
+    <code><img src="./images/html.svg" alt="HTML" height="40"/></code>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
+    <code><img src="./images/css.svg" alt="CSS" height="40"/></code>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank">
+    <code><img src="./images/md.svg" alt="MarkDown" height="40"/></code>
+  </a>
+  <a href="https://reactjs.org" target="_blank">
+    <code><img src="./images/react.svg" alt="ReactJS" height="40"/></code>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <code><img src="./images/node.svg" alt="NodeJS" height="40"/></code>
+  </a>
+  <a href="https://www.mysql.com" target="_blank">
+    <code><img src="./images/mysql.svg" alt="MySQL" height="40"/></code>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <b>Techos</b>
+  <br>
+  <br>
+  <a href="https://en.wikipedia.org/wiki/Git" target="_blank">
+    <code><img src="./images/git.svg" alt="Git" height="40"/></code>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/GitHub" target="_blank">
+    <code><img src="./images/github.svg" alt="GitHub" height="40"/></code>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/GitLab" target="_blank">
+    <code><img src="./images/gitlab.svg" alt="GitLab" height="40"/></code>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" target="_blank">
+    <code><img src="./images/vscode.svg" alt="VSCode" height="40"/></code>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <b>System & DevOps</b>
+  <br>
+  <br>
+  <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
+    <code><img src="./images/windows.svg" alt="Windows" height="40"/></code>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
+    <code><img src="./images/linux.svg" alt="Linux" height="40"/></code>
+  </a>
+  <br>
+  <a href="https://docker.com" target="_blank">
+    <code><img src="./images/docker.svg" alt="Docker" height="40"/></code>
+  </a>
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliotmasset&layout=compact)
 
@@ -76,13 +140,13 @@ class EliotMasset() {
 
 ![](https://github-profile-trophy.vercel.app/?username=eliotmasset&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Citation de dev random
+### ✍️Citations aléatoires de dev 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ------
 
-Credit: [eliotmasset](https://github.com/eliotmasset)
+Credit: [eliotmasset](https://github.com/eliotmasset) <img alt="Signal" height="25px" src="https://media.giphy.com/media/hlRzt8TxCNVcEZBt9w/giphy.gif">
 
 Last Edited on: 27/05/2022
