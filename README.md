@@ -76,6 +76,7 @@ class EliotMasset() {
 </p>
 
 <br>
+<br>
 
 <p align="center">
   <b>Techos</b>
@@ -95,6 +96,7 @@ class EliotMasset() {
   </a>
 </p>
 
+<br>
 <br>
 
 <p align="center">
