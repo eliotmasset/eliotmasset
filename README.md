@@ -51,9 +51,13 @@ class EliotMasset() {
   <a href="https://en.wikipedia.org/wiki/PHP" target="_blank">
     <code><img src="./images/php.svg" alt="PHP" height="40"/></code>
   </a>
+  <a href="https://nodejs.org" target="_blank">
+    <code><img src="./images/node.svg" alt="NodeJS" height="40"/></code>
+  </a>
   <a href="https://www.java.com" target="_blank">
     <code><img src="./images/java.svg" alt="Java" height="40"/></code>
   </a>
+  <br>
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
     <code><img src="./images/html.svg" alt="HTML" height="40"/></code>
   </a>
@@ -65,9 +69,6 @@ class EliotMasset() {
   </a>
   <a href="https://reactjs.org" target="_blank">
     <code><img src="./images/react.svg" alt="ReactJS" height="40"/></code>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <code><img src="./images/node.svg" alt="NodeJS" height="40"/></code>
   </a>
   <a href="https://www.mysql.com" target="_blank">
     <code><img src="./images/mysql.svg" alt="MySQL" height="40"/></code>
