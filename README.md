@@ -79,7 +79,7 @@ class EliotMasset() {
 <br>
 
 <p align="center">
-  <b>Techos</b>
+  <b>Utilitaires</b>
   <br>
   <br>
   <a href="https://en.wikipedia.org/wiki/Git" target="_blank">
