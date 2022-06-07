@@ -11,7 +11,7 @@ pour en découvrir plus sur moi!
 <br>
 
 <p align="center">
-  <a href="https://github.com/eliotmasset/eliotmasset"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hey+%2C+bienvenue+sur+ma+page+GitHub;Je+suis+Eliot+Masset;Je+suis+Etudiant+en+ecole+d+Ingénieur;Dev+Web;Dev+Full+Stack;Open+Source+Lover+%3C3"></a>
+  <a href="https://github.com/eliotmasset/eliotmasset"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hey+%2C+bienvenue+sur+mon+GitHub;Je+suis+Eliot+Masset;Je+suis+Etudiant+aux+Mines;Dev+Web;Dev+Full+Stack;Open+Source+Lover+%3C3"></a>
 </p>
 
 <br>
