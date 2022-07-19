@@ -45,6 +45,9 @@ class EliotMasset() {
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <code><img src="./images/cplusplus.svg" alt="C++" height="40"/></code>
   </a>
+  <a href="https://www.rust-lang.org/fr/" target="_blank">
+    <code><img src="./images/rust.svg" alt="Rust" height="40"/></code>
+  </a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
     <code><img src="./images/javascript.svg" alt="JavaScript" height="40"/></code>
   </a>
